@@ -1,0 +1,27 @@
+@import "./components/Layout/Layout.scss";
+@import "./components/Content/Content.scss";
+@import "./components/CTA/CTA.scss";
+
+.app {
+  min-height: 100vh;
+  background-color: black;
+  background-size: cover;
+  overflow-y: auto;
+  /* Tablet and mobile view */
+  @media (max-width: 991px) {
+    text-align: center;
+  }
+}
+
+/* text animation */
+.animate {
+  animation: textAnimate 3s;
+}
+@keyframes textAnimate {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
