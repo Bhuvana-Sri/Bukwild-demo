@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Bukwild-demo/static/css/main.c0a8b8bf.chunk.css",
+    "main.js": "/Bukwild-demo/static/js/main.0cbd56d2.chunk.js",
+    "main.js.map": "/Bukwild-demo/static/js/main.0cbd56d2.chunk.js.map",
+    "runtime-main.js": "/Bukwild-demo/static/js/runtime-main.d355c478.js",
+    "runtime-main.js.map": "/Bukwild-demo/static/js/runtime-main.d355c478.js.map",
+    "static/css/2.50def222.chunk.css": "/Bukwild-demo/static/css/2.50def222.chunk.css",
+    "static/js/2.1457ed95.chunk.js": "/Bukwild-demo/static/js/2.1457ed95.chunk.js",
+    "static/js/2.1457ed95.chunk.js.map": "/Bukwild-demo/static/js/2.1457ed95.chunk.js.map",
+    "index.html": "/Bukwild-demo/index.html",
+    "static/css/2.50def222.chunk.css.map": "/Bukwild-demo/static/css/2.50def222.chunk.css.map",
+    "static/css/main.c0a8b8bf.chunk.css.map": "/Bukwild-demo/static/css/main.c0a8b8bf.chunk.css.map",
+    "static/js/2.1457ed95.chunk.js.LICENSE.txt": "/Bukwild-demo/static/js/2.1457ed95.chunk.js.LICENSE.txt",
+    "static/media/abc.0d748ca0.svg": "/Bukwild-demo/static/media/abc.0d748ca0.svg",
+    "static/media/semantic.min.css": "/Bukwild-demo/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/slide_one.jpg": "/Bukwild-demo/static/media/slide_one.042051e9.jpg",
+    "static/media/slide_three.jpg": "/Bukwild-demo/static/media/slide_three.d69f22d7.jpg",
+    "static/media/slide_two.jpg": "/Bukwild-demo/static/media/slide_two.efddc84a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d355c478.js",
+    "static/css/2.50def222.chunk.css",
+    "static/js/2.1457ed95.chunk.js",
+    "static/css/main.c0a8b8bf.chunk.css",
+    "static/js/main.0cbd56d2.chunk.js"
+  ]
+}
