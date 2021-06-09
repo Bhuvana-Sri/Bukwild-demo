@@ -1,3 +1,3 @@
-# Demo for Bukwild interview
+# Basic responsive website
 
-Component Dev Test hosted at - http://Bhuvana-Sri.github.io/Bukwild-demo
+Site hosted at - http://Bhuvana-Sri.github.io/Bukwild-demo
